@@ -1,0 +1,14 @@
+/* For modern browsers */
+::-webkit-scrollbar {
+    width: 8px; /* Change this to your desired width */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+  }
+  
